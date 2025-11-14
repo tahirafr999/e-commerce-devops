@@ -4,6 +4,7 @@ A proof-of-concept e-commerce application built with Django 5, PostgreSQL (Neon)
 
 ## Features
 
+
 - **Product Catalog**: Browse products by category with detailed product pages
 - **Shopping Cart**: Add/remove items with quantity management
 - **User Authentication**: Register, login, and user management
